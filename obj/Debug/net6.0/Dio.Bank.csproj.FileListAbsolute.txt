@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Dio.Bank\bin\Debug\net6.0\Dio.Bank.exe
+C:\Users\Lucas\Desktop\Dio.Bank\bin\Debug\net6.0\Dio.Bank.deps.json
+C:\Users\Lucas\Desktop\Dio.Bank\bin\Debug\net6.0\Dio.Bank.runtimeconfig.json
+C:\Users\Lucas\Desktop\Dio.Bank\bin\Debug\net6.0\Dio.Bank.dll
+C:\Users\Lucas\Desktop\Dio.Bank\bin\Debug\net6.0\ref\Dio.Bank.dll
+C:\Users\Lucas\Desktop\Dio.Bank\bin\Debug\net6.0\Dio.Bank.pdb
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.dll
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\ref\Dio.Bank.dll
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.pdb
+C:\Users\Lucas\Desktop\Dio.Bank\obj\Debug\net6.0\Dio.Bank.genruntimeconfig.cache
