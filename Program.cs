@@ -16,26 +16,26 @@ namespace DIO.Bank
 				switch (OpcaoUsuario)
 				{
 					case "1":
-						ListarContas();
-						break;
+					ListarContas();
+					break;
 					case "2":
-						InserirConta();
-						break;
+					InserirConta();
+					break;
 					case "3":
-						Transferir();
-						break;
+					Transferir();
+					break;
 					case "4":
-						Sacar();
-						break;
+					Sacar();
+					break;
 					case "5":
-						Depositar();
-						break;
+					Depositar();
+					break;
                     			case "C":
-						Console.Clear();
-						break;
+					Console.Clear();
+					break;
 
 					default:
-						throw new ArgumentOutOfRangeException();
+					throw new ArgumentOutOfRangeException();
 				}
 
 				OpcaoUsuario = ObterOpcaoUsuario();
